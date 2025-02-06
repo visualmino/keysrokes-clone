@@ -4,7 +4,7 @@
 // @version      1.3
 // @description  i forgot
 // @author       wyt
-// @match        https://miniblox.io/
+// @match        https://fakeminecraftvisions.glitch.me/VisionLauncher.html
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=miniblox.io
 // @grant        GM_setValue
 // @grant        GM_getValue
